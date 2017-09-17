@@ -85,3 +85,7 @@ Session.vim
 *~
 # Auto-generated tag files
 tags
+
+# Custom
+
+bundle/
