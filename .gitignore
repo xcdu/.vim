@@ -89,3 +89,8 @@ tags
 # Custom
 
 bundle/
+sessions/
+tags/
+!tags
+!tags/update.sh
+
